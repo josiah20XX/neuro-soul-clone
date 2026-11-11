@@ -9,3 +9,5 @@ After a violent global uprising against poverty and injustice, fascist regimes b
 But the lines begin to blur. 
 
 Politicians and law enforcement desperate for more control over fracturing societies no longer want to harm the virtual clones of its citizens. Using a twisted form of the Stanford Prison Experiment, interrogators are no longer aware if the entity they are torturing is human, virtual or even something in-between.
+
+*By Josiah Rhys Jacobson. Movie Poster mockup via Leonardo AI.*
