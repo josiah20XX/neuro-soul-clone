@@ -1,6 +1,6 @@
 # Soul Clone: Retribution
 
-![Movie Poster](PosterA.jpg)
+![Movie Poster](Poster-A.jpg)
 
 The year is 2038. Governments secretly obtain brain scans of enemy combatants and all known anti-establishment dissidents. Using the latest Soul Clone tech, they create in-silico digital twins of millions of men and women. 
 
