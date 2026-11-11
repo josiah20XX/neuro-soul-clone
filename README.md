@@ -34,22 +34,22 @@ Soul Clone unifies these into a single, continuously-synchronised platform.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                        SOUL CLONE PLATFORM                           │
+│                        SOUL CLONE PLATFORM                          │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
-│  ┌───────────────┐    ┌──────────────────┐    ┌─────────────────┐  │
-│  │  DATA LAYER   │───▶│  MECHANISTIC     │───▶│  GENERATIVE     │  │
-│  │               │    │  CORE            │    │  LAYER          │  │
-│  │ • rs-fMRI     │    │                  │    │                 │  │
-│  │ • dMRI        │    │ • Hypernetwork   │    │ • LLM persona   │  │
-│  │ • EEG/ERP     │    │   (connectome →  │    │   (OG's voice)  │  │
-│  │ • HRV/GSR     │    │    weights)      │    │                 │  │
-│  │ • Psychometrics│   │ • RNN main net   │    │ • Dream/night-  │  │
-│  │ • Journals/   │    │   (task →        │    │   time sim      │  │
-│  │   narratives  │    │    behaviour +   │    │                 │  │
-│  │ • Wearables   │    │    BOLD)         │    │ • Scenario      │  │
-│  │ • EHR (opt.)  │    │ • E/I gain ctrl  │    │   engine        │  │
-│  └───────────────┘    │   (perturbation) │    └─────────────────┘  │
+│  ┌───────────────┐    ┌──────────────────┐    ┌─────────────────┐   │
+│  │  DATA LAYER   │───▶│  MECHANISTIC     │───▶│  GENERATIVE     │   │
+│  │               │    │  CORE            │    │  LAYER          │   │
+│  │ • rs-fMRI     │    │                  │    │                 │   │
+│  │ • dMRI        │    │ • Hypernetwork   │    │ • LLM persona   │   │
+│  │ • EEG/ERP     │    │   (connectome →  │    │   (OG's voice)  │   │
+│  │ • HRV/GSR     │    │    weights)      │    │                 │   │
+│  │ • Psychometrics│   │ • RNN main net   │    │ • Dream/night-  │   │
+│  │ • Journals/   │    │   (task →        │    │   time sim      │   │
+│  │   narratives  │    │    behaviour +   │    │                 │   │
+│  │ • Wearables   │    │    BOLD)         │    │ • Scenario      │   │
+│  │ • EHR (opt.)  │    │ • E/I gain ctrl  │    │   engine        │   │
+│  └───────────────┘    │   (perturbation) │    └─────────────────┘   │
 │                       └──────────────────┘                          │
 │                              │                                      │
 │                              ▼                                      │
@@ -68,7 +68,7 @@ Soul Clone unifies these into a single, continuously-synchronised platform.
 │                       └──────────────────┘                          │
 │                                                                     │
 │  ┌───────────────────────────────────────────────────────────────┐  │
-│  │  REFLECTION INTERFACE  (mirror-style UX)                       │  │
+│  │  REFLECTION INTERFACE  (mirror-style UX)                      │  │
 │  │  • "What would I do?" queries                                 │  │
 │  │  • Scenario A/B comparison                                    │  │
 │  │  • Therapist-mediated sessions                                │  │
