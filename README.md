@@ -45,7 +45,7 @@ Soul Clone unifies these into a single, continuously-synchronised platform for b
 ┌───────────────────────────────────────────────────────────────────┐
 │                        SOUL CLONE PLATFORM                        │
 ├───────────────────────────────────────────────────────────────────┤
-│                                                                     │
+│                                                                   │
 │  ┌───────────────┐    ┌──────────────────┐    ┌─────────────────┐ │
 │  │  DATA LAYER   │───▶│  MECHANISTIC     │───▶│  GENERATIVE     │ │
 │  │               │    │  CORE            │    │  LAYER          │ │
@@ -59,30 +59,30 @@ Soul Clone unifies these into a single, continuously-synchronised platform for b
 │  │ • Wearables   │    │    BOLD)         │    │ • Scenario      │ │
 │  │ • EHR (opt.)  │    │ • E/I gain ctrl  │    │   engine        │ │
 │  └───────────────┘    │   (perturbation) │    └─────────────────┘ │
-│                       └──────────────────┘                          │
-│                              │                                      │
-│                              ▼                                      │
-│                       ┌──────────────────┐                          │
-│                       │  REFLECTIVE      │                          │
-│                       │  SCENARIO ENGINE │                          │
-│                       │                  │                          │
-│                       │ • Stressor sim   │                          │
-│                       │ • Goal-framing   │                          │
-│                       │ • Reward/effort  │                          │
-│                       │ • High-pressure  │                          │
-│                       │   simulations   │                          │
-│                       │ • Counselling    │                          │
-│                       │   roleplay       │                          │
-│                       │ • Dream replay   │                          │
-│                       └──────────────────┘                          │
-│                                                                     │
-│  ┌───────────────────────────────────────────────────────────────┐ │
-│  │  REFLECTION INTERFACE  (mirror-style UX)                    │ │
-│  │  • "What would I do?" queries                               │ │
-│  │  • Scenario A/B comparison                                  │ │
-│  │  • Therapist-mediated sessions                              │ │
-│  │  • Insight reports and uncertainty bounds                   │ │
-│  └───────────────────────────────────────────────────────────────┘ │
+│                       └──────────────────┘                        │
+│                              │                                    │
+│                              ▼                                    │
+│                       ┌──────────────────┐                        │
+│                       │  REFLECTIVE      │                        │
+│                       │  SCENARIO ENGINE │                        │
+│                       │                  │                        │
+│                       │ • Stressor sim   │                        │
+│                       │ • Goal-framing   │                        │
+│                       │ • Reward/effort  │                        │
+│                       │ • High-pressure  │                        │
+│                       │   simulations    │                        │
+│                       │ • Counselling    │                        │
+│                       │   roleplay       │                        │
+│                       │ • Dream replay   │                        │
+│                       └──────────────────┘                        │
+│                                                                   │
+│  ┌───────────────────────────────────────────────────────────────┐│
+│  │  REFLECTION INTERFACE  (mirror-style UX)                      ││
+│  │  • "What would I do?" queries                                 ││
+│  │  • Scenario A/B comparison                                    ││
+│  │  • Therapist-mediated sessions                                ││
+│  │  • Insight reports and uncertainty bounds                     ││
+│  └───────────────────────────────────────────────────────────────┘│
 └───────────────────────────────────────────────────────────────────┘
 ```
 
